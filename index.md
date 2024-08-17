@@ -2,122 +2,97 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+In the future, roads will host a complex mix of automated and manually operated vehicles, along with vulnerable road users. However, most automotive user interfaces and human factors research focus on single-agent studies, where one human interacts with one vehicle. Only a few studies incorporate multi-agent setups. This workshop aims to (1) examine the current state of multi-agent research in the automotive domain, (2) serve as a platform for discussion toward more realistic multi-agent setups, and (3) discuss methods and practices to conduct such multi-agent research. The goal is to synthesize the insights from the AutoUI community, creating the foundation for advancing multi-agent traffic interaction research. Full paper is available [here]({{ site.url }}{{ site.baseurl }}/assets/bazilinskyy2024always.pdf).
 
-[Link to another page](./another-page.html).
+<div class="row" style="text-align:center; margin-bottom: 0px;">
+  <iframe style="display:inline-block; width: 100%; height: 358px" src="https://www.youtube.com/embed/W2VWLYnTYrM?playlist=W2VWLYnTYrM&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
 
-There should be whitespace between paragraphs.
+Multi-agent crossing scenario in <a href="https://github.com/bazilinskyy/coupled-sim" target="_blank">coupled simulator</a>: AV passenger, MDV driver, and pedestrian (top); views of the three agents (bottom).
+  </div>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Schedule
+The workshop will take place on 22 September 2024, 14:00–18:00. See full AutoUI programme [here](https://www.auto-ui.org/24/program).
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+ Activity | Time slot | Description                                                                                                                 
+-------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------
+ Introduction      | 14:00–14:30        | Introduction of workshop topics and instructions for interactive online questionnaire. Introductions of organizers and participants. 
+ Session 1         | 14:30–15:00        | Presentation: Existing multi-agent automotive research.                                                                     
+ Coffee break      | 15:00–15:15        | Live demo of the coupled simulator and networking.                                                   
+ Session 2         | 15:15–16:30        | Group work 1: Do we need multi-agent automotive research?                                                                   
+ Coffee break      | 16:30–16:45        | Live demo of the coupled simulator and networking.                                                   
+ Session 3         | 16:45–17:30        | Group work 2: How can we advance the state of multi-agent automotive research?                                              
+ Closing           | 17:30–18:00        | Presentations of group work activities and wrap-up. Collection of the expression of interest to contribute to the positioning paper. 
 
 
-### Definition lists can be used with HTML syntax.
+# Organisers
+## Pavlo Bazilinskyy
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+{:.organiser-photo}
+![Pavlo Bazilinskyy]({{ site.url }}{{ site.baseurl }}/assets/pavlo-bazilinskyy.jpg)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Department of Industrial Design, Eindhoven University of Technology, Eindhoven, The Netherlands ([p.bazilinskyy@tue.nl](mailto:p.bazilinskyy@tue.nl))
 
-```
-The final element.
-```
+Pavlo Bazilinskyy is an assistant professor at TU Eindhoven focusing on AI-driven interaction between automated vehicles and other road users. He finished his PhD at TU Delft in auditory feedback for automated driving as a Marie Curie Fellow, where he also worked as a postdoc. He was the head of data research at NEXTdriver. Pavlo is a treasurer of the Marie Curie Alumni Association (MCAA) and was a director of the Research and Innovation unit of the Erasmus Mundus Association (EMA).
+
+## Patrick Ebel
+
+{:.organiser-photo}
+![Patrick Ebel]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
+
+ScaDS.AI, Leipzig University, Leipzig, Germany
+
+Patrick Ebel is a Junior Research Group Leader at the Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) at Leipzig University. He received his PhD. in Computer Science from the University of Cologne and his MSc in Automotive Systems from the TU Berlin. His research focuses on the analysis of large naturalistic driving data and computational models for human-vehicle interaction.
+
+## Francesco Walker
+
+{:.organiser-photo}
+![Francesco Walker]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
+
+Cognitive Psychology, Leiden University, Leiden, The Netherlands
+
+Francesco Walker is an assistant professor at Leiden University (NL). He received his PhD from the University of Twente (NL), with a dissertation focused on the assessment and calibration of driver trust in automated vehicles. In Leiden he founded the HAT Lab, a research group that studies how Humans interact with Art and emerging Technologies.
+
+## Debargha Dey
+
+{:.organiser-photo}
+![Debargha Dey]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
+
+Information Science, Cornell Tech, New York, NY, USA
+
+Debargha Dey is a postdoctoral researcher at Cornell Tech, with a research focus on human-automation interaction. He received his PhD in Industrial Design from TU Eindhoven and has 8+ years of experience in the domain of human factors for automated driving and traffic behavior.
+
+## Tram Thi Minh Tran
+
+{:.organiser-photo}
+![Tram Thi Minh Tran]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
+
+Sydney School of Architecture, Design and Planning, The University of Sydney, Sydney, Australia
+
+Tram Thi Minh Tran is a postdoctoral researcher at the University of Sydney, Australia. She holds both her Master’s and PhD degrees from the same university. Her research explores the applications and implications of emerging technologies, with a particular focus on AR/VR and autonomous mobility.
+
+## Hyunmin Kang
+
+{:.organiser-photo}
+![Hyunmin Kang]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
+
+TODO
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Convallis ultrices odio vel; nam maximus curae. Bibendum malesuada porta, leo arcu tempus sodales hendrerit. Ex habitant maecenas cras laoreet habitasse in gravida. Montes augue quam lacus finibus adipiscing rhoncus viverra maximus. Pharetra accumsan dapibus ex metus facilisi porta dapibus nascetur. Hendrerit nullam magnis leo litora per fusce fermentum condimentum purus. Id vel cubilia urna ante lectus pretium mollis velit.
+
+## Hyochang Kim
+
+{:.organiser-photo}
+![Hyochang Kim]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
+
+TODO
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Convallis ultrices odio vel; nam maximus curae. Bibendum malesuada porta, leo arcu tempus sodales hendrerit. Ex habitant maecenas cras laoreet habitasse in gravida. Montes augue quam lacus finibus adipiscing rhoncus viverra maximus. Pharetra accumsan dapibus ex metus facilisi porta dapibus nascetur. Hendrerit nullam magnis leo litora per fusce fermentum condimentum purus. Id vel cubilia urna ante lectus pretium mollis velit.
+
+## Hyungchai Park 
+
+{:.organiser-photo}
+![Hyungchai Park ]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
+
+TODO
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Convallis ultrices odio vel; nam maximus curae. Bibendum malesuada porta, leo arcu tempus sodales hendrerit. Ex habitant maecenas cras laoreet habitasse in gravida. Montes augue quam lacus finibus adipiscing rhoncus viverra maximus. Pharetra accumsan dapibus ex metus facilisi porta dapibus nascetur. Hendrerit nullam magnis leo litora per fusce fermentum condimentum purus. Id vel cubilia urna ante lectus pretium mollis velit.
