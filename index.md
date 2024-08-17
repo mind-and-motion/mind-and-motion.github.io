@@ -13,16 +13,15 @@ Multi-agent crossing scenario in <a href="https://github.com/bazilinskyy/coupled
 # Schedule
 The workshop will take place on 22 September 2024, 14:00–18:00. See full AutoUI programme [here](https://www.auto-ui.org/24/program).
 
- Activity | Time slot | Description                                                                                                                 
+ Activity | Time | Description                                                                                                                 
 -------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------
- Introduction      | 14:00–14:30        | Introduction of workshop topics and instructions for interactive online questionnaire. Introductions of organizers and participants. 
- Session 1         | 14:30–15:00        | Presentation: Existing multi-agent automotive research.                                                                     
+ Introduction<img width=10/>      | 14:00–14:30<img width=70/>        | Introduction of workshop topics and instructions for interactive online questionnaire. Introductions of organizers and participants. 
+ Session 1         | 14:30–15:00        | *Presentation*: Existing multi-agent automotive research.                                                                     
  Coffee break      | 15:00–15:15        | Live demo of the coupled simulator and networking.                                                   
- Session 2         | 15:15–16:30        | Group work 1: Do we need multi-agent automotive research?                                                                   
+ Session 2         | 15:15–16:30        | *Group work 1*: Do we need multi-agent automotive research?                                                                   
  Coffee break      | 16:30–16:45        | Live demo of the coupled simulator and networking.                                                   
- Session 3         | 16:45–17:30        | Group work 2: How can we advance the state of multi-agent automotive research?                                              
+ Session 3         | 16:45–17:30        | *Group work 2*: How can we advance the state of multi-agent automotive research?                                              
  Closing           | 17:30–18:00        | Presentations of group work activities and wrap-up. Collection of the expression of interest to contribute to the positioning paper. 
-
 
 # Organisers
 ## Pavlo Bazilinskyy
