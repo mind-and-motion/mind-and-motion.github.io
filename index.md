@@ -10,8 +10,8 @@ In the future, roads will host a complex mix of automated and manually operated 
 Multi-agent crossing scenario in <a href="https://github.com/bazilinskyy/coupled-sim" target="_blank">coupled simulator</a>: AV passenger, MDV driver, and pedestrian (top); views of the three agents (bottom).
   </div>
 
-# Schedule
-The workshop will take place on 22 September 2024, 14:00–18:00. See full AutoUI programme [here](https://www.auto-ui.org/24/program).
+# Location and schedule
+The workshop (W11) will take place on 22 September 2024, 14:00–18:00 in **room 382**. See full AutoUI programme [here](https://www.auto-ui.org/24/program).
 
  Activity | Time | Description                                                                                                                 
 -------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------
@@ -29,7 +29,7 @@ The workshop will take place on 22 September 2024, 14:00–18:00. See full AutoU
 {:.organiser-photo}
 ![Pavlo Bazilinskyy]({{ site.url }}{{ site.baseurl }}/assets/pavlo-bazilinskyy.jpg)
 
-Department of Industrial Design, Eindhoven University of Technology, Eindhoven, The Netherlands ([p.bazilinskyy@tue.nl](mailto:p.bazilinskyy@tue.nl))
+Department of Industrial Design, Eindhoven University of Technology, Eindhoven, The Netherlands ([p.bazilinskyy@tue.nl](mailto:p.bazilinskyy@tue.nl)).
 
 Pavlo Bazilinskyy is an assistant professor at TU Eindhoven focusing on AI-driven interaction between automated vehicles and other road users. He finished his PhD at TU Delft in auditory feedback for automated driving as a Marie Curie Fellow, where he also worked as a postdoc. He was the head of data research at NEXTdriver. Pavlo is a treasurer of the Marie Curie Alumni Association (MCAA) and was a director of the Research and Innovation unit of the Erasmus Mundus Association (EMA).
 
@@ -38,7 +38,7 @@ Pavlo Bazilinskyy is an assistant professor at TU Eindhoven focusing on AI-drive
 {:.organiser-photo}
 ![Patrick Ebel]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
 
-ScaDS.AI, Leipzig University, Leipzig, Germany
+ScaDS.AI, Leipzig University, Leipzig, Germany.
 
 Patrick Ebel is a Junior Research Group Leader at the Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) at Leipzig University. He received his PhD. in Computer Science from the University of Cologne and his MSc in Automotive Systems from the TU Berlin. His research focuses on the analysis of large naturalistic driving data and computational models for human-vehicle interaction.
 
@@ -47,7 +47,7 @@ Patrick Ebel is a Junior Research Group Leader at the Center for Scalable Data A
 {:.organiser-photo}
 ![Francesco Walker]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
 
-Cognitive Psychology, Leiden University, Leiden, The Netherlands
+Cognitive Psychology, Leiden University, Leiden, The Netherlands.
 
 Francesco Walker is an assistant professor at Leiden University (NL). He received his PhD from the University of Twente (NL), with a dissertation focused on the assessment and calibration of driver trust in automated vehicles. In Leiden he founded the HAT Lab, a research group that studies how Humans interact with Art and emerging Technologies.
 
@@ -56,7 +56,7 @@ Francesco Walker is an assistant professor at Leiden University (NL). He receive
 {:.organiser-photo}
 ![Debargha Dey]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
 
-Information Science, Cornell Tech, New York, NY, USA
+Information Science, Cornell Tech, New York, NY, USA.
 
 Debargha Dey is a postdoctoral researcher at Cornell Tech, with a research focus on human-automation interaction. He received his PhD in Industrial Design from TU Eindhoven and has 8+ years of experience in the domain of human factors for automated driving and traffic behavior.
 
@@ -65,7 +65,7 @@ Debargha Dey is a postdoctoral researcher at Cornell Tech, with a research focus
 {:.organiser-photo}
 ![Tram Thi Minh Tran]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
 
-Sydney School of Architecture, Design and Planning, The University of Sydney, Sydney, Australia
+Sydney School of Architecture, Design and Planning, The University of Sydney, Sydney, Australia.
 
 Tram Thi Minh Tran is a postdoctoral researcher at the University of Sydney, Australia. She holds both her Master’s and PhD degrees from the same university. Her research explores the applications and implications of emerging technologies, with a particular focus on AR/VR and autonomous mobility.
 
