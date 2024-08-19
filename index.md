@@ -72,11 +72,11 @@ Tram Thi Minh Tran is a postdoctoral researcher at the University of Sydney, Aus
 ## Hyunmin Kang
 
 {:.organiser-photo}
-![Hyunmin Kang]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
+![Hyunmin Kang]({{ site.url }}{{ site.baseurl }}/assets/hyunmin-kang.jpg)
 
 TODO
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Convallis ultrices odio vel; nam maximus curae. Bibendum malesuada porta, leo arcu tempus sodales hendrerit. Ex habitant maecenas cras laoreet habitasse in gravida. Montes augue quam lacus finibus adipiscing rhoncus viverra maximus. Pharetra accumsan dapibus ex metus facilisi porta dapibus nascetur. Hendrerit nullam magnis leo litora per fusce fermentum condimentum purus. Id vel cubilia urna ante lectus pretium mollis velit.
+Hyunmin Kang is a research scientist at Stanford Center at the Incheon Global Campus. He received his Ph.D. in Cognitive Engineering from Yonsei University. His research interests include human-computer interaction, autonomous systems, and cognitive ergonomics, with a particular focus on improving the usability and safety of emerging technologies.
 
 ## Hyochang Kim
 
@@ -85,7 +85,7 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Convallis ultrices odio vel
 
 TODO
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Convallis ultrices odio vel; nam maximus curae. Bibendum malesuada porta, leo arcu tempus sodales hendrerit. Ex habitant maecenas cras laoreet habitasse in gravida. Montes augue quam lacus finibus adipiscing rhoncus viverra maximus. Pharetra accumsan dapibus ex metus facilisi porta dapibus nascetur. Hendrerit nullam magnis leo litora per fusce fermentum condimentum purus. Id vel cubilia urna ante lectus pretium mollis velit.
+Hyochang Kim is a research director at Stanford Center at the Incheon Global Campus. He received his Ph.D. in Industrial Engineering from Yonsei University. His research focuses on effective interaction methods tailored to specific contexts, with a particular emphasis on AI and autonomous vehicles. He has a special interest in natural communication methods between humans and AI.
 
 ## Hyungchai Park 
 
@@ -94,4 +94,4 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Convallis ultrices odio vel
 
 TODO
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Convallis ultrices odio vel; nam maximus curae. Bibendum malesuada porta, leo arcu tempus sodales hendrerit. Ex habitant maecenas cras laoreet habitasse in gravida. Montes augue quam lacus finibus adipiscing rhoncus viverra maximus. Pharetra accumsan dapibus ex metus facilisi porta dapibus nascetur. Hendrerit nullam magnis leo litora per fusce fermentum condimentum purus. Id vel cubilia urna ante lectus pretium mollis velit.
+Hyunmin Kang is a research scientist at Stanford Center at the Incheon Global Campus. He received his Ph.D. in Cognitive Engineering from Yonsei University. His research interests include human-computer interaction, autonomous systems, and cognitive ergonomics, with a particular focus on improving the usability and safety of emerging technologies.
