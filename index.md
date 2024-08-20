@@ -36,7 +36,7 @@ Pavlo Bazilinskyy is an assistant professor at TU Eindhoven focusing on AI-drive
 ## Patrick Ebel
 
 {:.organiser-photo}
-![Patrick Ebel]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
+![Patrick Ebel]({{ site.url }}{{ site.baseurl }}/assets/patrick-ebel.jpg)
 
 ScaDS.AI, Leipzig University, Leipzig, Germany.
 
@@ -45,7 +45,7 @@ Patrick Ebel is a Junior Research Group Leader at the Center for Scalable Data A
 ## Francesco Walker
 
 {:.organiser-photo}
-![Francesco Walker]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
+![Francesco Walker]({{ site.url }}{{ site.baseurl }}/assets/francesco-walker.jpg)
 
 Cognitive Psychology, Leiden University, Leiden, The Netherlands.
 
@@ -54,7 +54,7 @@ Francesco Walker is an assistant professor at Leiden University (NL). He receive
 ## Debargha Dey
 
 {:.organiser-photo}
-![Debargha Dey]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
+![Debargha Dey]({{ site.url }}{{ site.baseurl }}/assets/debargha-dey.jpg)
 
 Information Science, Cornell Tech, New York, NY, USA.
 
@@ -63,7 +63,7 @@ Debargha Dey is a postdoctoral researcher at Cornell Tech, with a research focus
 ## Tram Thi Minh Tran
 
 {:.organiser-photo}
-![Tram Thi Minh Tran]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
+![Tram Thi Minh Tran]({{ site.url }}{{ site.baseurl }}/assets/tram-tran.jpg)
 
 Sydney School of Architecture, Design and Planning, The University of Sydney, Sydney, Australia.
 
@@ -74,24 +74,24 @@ Tram Thi Minh Tran is a postdoctoral researcher at the University of Sydney, Aus
 {:.organiser-photo}
 ![Hyunmin Kang]({{ site.url }}{{ site.baseurl }}/assets/hyunmin-kang.jpg)
 
-TODO
+Stanford Center at the Incheon Global Campus, Stanford University, South Korea.
 
 Hyunmin Kang is a research scientist at Stanford Center at the Incheon Global Campus. He received his Ph.D. in Cognitive Engineering from Yonsei University. His research interests include human-computer interaction, autonomous systems, and cognitive ergonomics, with a particular focus on improving the usability and safety of emerging technologies.
 
 ## Hyochang Kim
 
 {:.organiser-photo}
-![Hyochang Kim]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
+![Hyochang Kim]({{ site.url }}{{ site.baseurl }}/assets/hyochang-kim.jpg)
 
-TODO
+Stanford Center at the Incheon Global Campus, Stanford University, South Korea.
 
 Hyochang Kim is a research director at Stanford Center at the Incheon Global Campus. He received his Ph.D. in Industrial Engineering from Yonsei University. His research focuses on effective interaction methods tailored to specific contexts, with a particular emphasis on AI and autonomous vehicles. He has a special interest in natural communication methods between humans and AI.
 
 ## Hyungchai Park 
 
 {:.organiser-photo}
-![Hyungchai Park ]({{ site.url }}{{ site.baseurl }}/assets/dummy.gif)
+![Hyungchai Park ]({{ site.url }}{{ site.baseurl }}/assets/hyungchai_park.jpg)
 
-TODO
+Stanford Center at the Incheon Global Campus, Stanford University, South Korea.
 
 Hyunmin Kang is a research scientist at Stanford Center at the Incheon Global Campus. He received his Ph.D. in Cognitive Engineering from Yonsei University. His research interests include human-computer interaction, autonomous systems, and cognitive ergonomics, with a particular focus on improving the usability and safety of emerging technologies.
