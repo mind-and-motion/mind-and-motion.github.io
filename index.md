@@ -69,15 +69,6 @@ Sydney School of Architecture, Design and Planning, The University of Sydney, Sy
 
 Tram Thi Minh Tran is a postdoctoral researcher at the University of Sydney, Australia. She holds both her Master’s and PhD degrees from the same university. Her research explores the applications and implications of emerging technologies, with a particular focus on AR/VR and autonomous mobility.
 
-## Hyunmin Kang
-
-{:.organiser-photo}
-![Hyunmin Kang]({{ site.url }}{{ site.baseurl }}/assets/hyunmin-kang.jpg)
-
-Stanford Center at the Incheon Global Campus, Stanford University, South Korea.
-
-Hyunmin Kang is a research scientist at Stanford Center at the Incheon Global Campus. He received his Ph.D. in Cognitive Engineering from Yonsei University. His research interests include human-computer interaction, autonomous systems, and cognitive ergonomics, with a particular focus on improving the usability and safety of emerging technologies.
-
 ## Hyochang Kim
 
 {:.organiser-photo}
@@ -95,3 +86,12 @@ Hyochang Kim is a research director at Stanford Center at the Incheon Global Cam
 Stanford Center at the Incheon Global Campus, Stanford University, South Korea.
 
 Hyungchai Park is a research director at the Stanford Center at the Incheon Global Campus. He received his Ph.D. in Mechanical Engineering from Stanford University. His research focuses on the integrated analysis of data from vehicles, drones, and urban infrastructure within smart cities.
+
+## Hyunmin Kang
+
+{:.organiser-photo}
+![Hyunmin Kang]({{ site.url }}{{ site.baseurl }}/assets/hyunmin-kang.jpg)
+
+Stanford Center at the Incheon Global Campus, Stanford University, South Korea.
+
+Hyunmin Kang is a research scientist at Stanford Center at the Incheon Global Campus. He received his Ph.D. in Cognitive Engineering from Yonsei University. His research interests include human-computer interaction, autonomous systems, and cognitive ergonomics, with a particular focus on improving the usability and safety of emerging technologies.
