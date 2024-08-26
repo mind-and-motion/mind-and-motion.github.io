@@ -94,4 +94,4 @@ Hyochang Kim is a research director at Stanford Center at the Incheon Global Cam
 
 Stanford Center at the Incheon Global Campus, Stanford University, South Korea.
 
-Hyunmin Kang is a research scientist at Stanford Center at the Incheon Global Campus. He received his Ph.D. in Cognitive Engineering from Yonsei University. His research interests include human-computer interaction, autonomous systems, and cognitive ergonomics, with a particular focus on improving the usability and safety of emerging technologies.
+Hyungchai Park is a research director at the Stanford Center at the Incheon Global Campus. He received his Ph.D. in Mechanical Engineering from Stanford University. His research focuses on the integrated analysis of data from vehicles, drones, and urban infrastructure within smart cities.
