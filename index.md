@@ -15,8 +15,8 @@ The workshop (W11) will take place on 22 September 2024, 14:00–18:00 in **room
 
  Activity | Time | Description                                                                                                                 
 -------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------
- Introduction<img width=10/>      | 14:00–14:30<img width=70/>        | Introduction of workshop topics and instructions for interactive online questionnaire. Introductions of organizers and participants. 
- Session 1         | 14:30–15:00        | *Presentation*: Existing multi-agent automotive research.                                                                     
+ Introduction<img width=10/>      | 14:00–14:20<img width=70/>        | Introduction of workshop topics and instructions for interactive online questionnaire. Introductions of organizers and participants. 
+ Session 1         | 14:20–15:00        | *Presentation*: Existing multi-agent automotive research.                                                                     
  Coffee break      | 15:00–15:15        | Live demo of the coupled simulator and networking.                                                   
  Session 2         | 15:15–16:30        | *Group work 1*: Do we need multi-agent automotive research?                                                                   
  Coffee break      | 16:30–16:45        | Live demo of the coupled simulator and networking.                                                   
