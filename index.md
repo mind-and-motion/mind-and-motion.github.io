@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-In the past, biomechanical simulations in the field of human-computer interaction (HCI) concentrated on inverse kinematics, thereby enabling the forecasting of fatigue or muscle utilisation based on motion-capturing data. In more recent times, biomechanical forward simulations have begun to be employed, as they provide insights into human interaction movements \emph{prior} to conducting user studies.  While initial works have demonstrated the potential of these simulations to estimate user performance and predict different strategies, the current availability of biomechanical models and their inherent complexity restrict the scope of their applications.  We need improved models that can be applied to any interaction technique in order to expand the scope of simulations and to optimise their use.  Concurrently, there has been significant advancement in the field of computational models of human cognition, enabling us to make further predictions not only on the manner in which humans move, but also on the underlying cognitive processes that drive these interactions. These models are closely intertwined with models of human perception, which inform cognitive processes. In light of these developments, we argue that the HCI community is on the cusp of achieving user models that integrate sophisticated models of biomechanics, perception, and cognition. Such models would afford the opportunity to conduct wholly virtual user studies, thereby offering insights into how humans comprehend, experience and engage with any given interaction environment.
-
 This workshop invites HCI researchers, UI designers, and practitioners to explore how integrating these models can lead to smarter, more responsive interfaces. Through expert talks, case studies, and hands-on collaborative sessions, participants will discuss how combining physical and mental user models can enhance interaction design in real-world contexts. Key topics include the influence of physical constraints on cognitive load in complex interfaces, the role of cognitive processes in optimizing motor performance, and how integrating these models can drive innovations in responsive, adaptive, and ergonomic design for interfaces such as wearables, VR/AR systems, and touch-based devices.
 
 
@@ -30,9 +27,10 @@ The workshop (W11) will take place on XX May 2025, 9:00–16:00 in **room XX**. 
 
 <div class="organiser-photo">
    <img src="{{ site.url }}{{ site.baseurl }}/assets/arthur-fleig.png" alt="Arthur Fleig">
-   <p>Arthur Fleig is a junior research group leader at <a href="https://scads.ai">ScaDS.AI</a> Leipzig, Leipzig University. His research interests lie on the interface between Computer Science and Mathematics. He focuses on modelling, simulation, and optimal control of real-world-relevant dynamical systems within Human-Computer Interaction.</p>
+   <p></p>
 </div>
 
+Arthur Fleig is a junior research group leader at <a href="https://scads.ai">ScaDS.AI</a> Leipzig, Leipzig University. His research interests lie on the interface between Computer Science and Mathematics. He focuses on modelling, simulation, and optimal control of real-world-relevant dynamical systems within Human-Computer Interaction.
 
 ## Patrick Ebel
 
