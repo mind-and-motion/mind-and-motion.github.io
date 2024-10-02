@@ -103,6 +103,6 @@ Roderick Murray-Smith is a professor in the School of Computing Science at the U
    <img src="{{ site.url }}{{ site.baseurl }}/assets/antti-oulasvirta.png" alt="Antti Oulasvirta">
 </div>
 
-Per Ola Kristensson is ...
+Antti Oulasvirta leads the User Interfaces research group at Aalto University and the Interactive AI research program at the Finnish Center for AI.
 
 <div style="clear: both;"></div>
