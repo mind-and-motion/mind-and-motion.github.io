@@ -1,2 +1,2 @@
-# Website for the multi-agent research in automotive
-Information about the workshop at AutoUI 2024.
+# Website for the Mind & Motion Workshop
+Information about the workshop at CHI 2025.
