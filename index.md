@@ -21,25 +21,18 @@ The workshop (W11) will take place on XX May 2025, 9:00–16:00 in **room XX**. 
 
 ## Arthur Fleig
 
-[//]: # ({:.organiser-photo})
-
-[//]: # (![Arthur Fleig]&#40;{{ site.url }}{{ site.baseurl }}/assets/arthur-fleig.png&#41;)
-
 <div class="organiser-photo">
    <img src="{{ site.url }}{{ site.baseurl }}/assets/arthur-fleig.png" alt="Arthur Fleig">
-   <p></p>
 </div>
 
 Arthur Fleig is a junior research group leader at <a href="https://scads.ai">ScaDS.AI</a> Leipzig, Leipzig University. His research interests lie on the interface between Computer Science and Mathematics. He focuses on modelling, simulation, and optimal control of real-world-relevant dynamical systems within Human-Computer Interaction.
 
 ## Patrick Ebel
 
-[//]: # ({:.organiser-photo})
-
-[//]: # (![Patrick Ebel]&#40;{{ site.url }}{{ site.baseurl }}/assets/patrick-ebel.png&#41;)
-
 <div class="organiser-photo">
    <img src="{{ site.url }}{{ site.baseurl }}/assets/patrick-ebel.png" alt="Patrick Ebel">
 </div>
 
 Patrick Ebel is leading the junior research group [CIAO](https://ciao-group.github.io) at [ScaDS.AI](https://scads.ai), Leipzig University. His research focuses on data-driven and RL-based user models for simulating human-computer interaction in dynamic environments.
+
+<div style="clear: both;"></div>
