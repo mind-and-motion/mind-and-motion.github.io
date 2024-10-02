@@ -3,8 +3,15 @@ layout: default
 ---
 This workshop invites HCI researchers, UI designers, and practitioners to explore how integrating these models can lead to smarter, more responsive interfaces. Through expert talks, case studies, and hands-on collaborative sessions, participants will discuss how combining physical and mental user models can enhance interaction design in real-world contexts. Key topics include the influence of physical constraints on cognitive load in complex interfaces, the role of cognitive processes in optimizing motor performance, and how integrating these models can drive innovations in responsive, adaptive, and ergonomic design for interfaces such as wearables, VR/AR systems, and touch-based devices.
 
+# Submissions
 
-# Location and schedule
+Participants are invited to submit position papers that focus on.... 
+
+**Submissions due:** xx.xx.xx
+
+**Notifications sent:** xx.xx.xx
+
+# Schedule and Location
 The workshop (W11) will take place on XX May 2025, 9:00–16:00 in **room XX**. See full CHI workshop programme [here](https://chi2025.acm.org/for-authors/workshops/).
 
  Activity | Time | Description                                                                                                                 
@@ -27,6 +34,15 @@ The workshop (W11) will take place on XX May 2025, 9:00–16:00 in **room XX**. 
 
 Arthur Fleig is a junior research group leader at <a href="https://scads.ai">ScaDS.AI</a> Leipzig, Leipzig University. His research interests lie on the interface between Computer Science and Mathematics. He focuses on modelling, simulation, and optimal control of real-world-relevant dynamical systems within Human-Computer Interaction.
 
+<div style="clear: both;"></div>
+
+## Florian Fischer
+
+<div class="organiser-photo">
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/florian-fischer.jpg" alt="Florian Fischer">
+</div>
+
+Florian Fischer is a Postdoc in the Intelligent Interactive Systems group at Cambridge University, with a background in mathematics. His research areas include optimal control methods and deep reinforcement learning (RL) for human-computer interaction, biomechanical user modelling, mid-air interaction techniques, and social VR.
 <div style="clear: both;"></div>
 
 ## Patrick Ebel
