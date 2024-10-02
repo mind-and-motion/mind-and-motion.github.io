@@ -27,6 +27,8 @@ The workshop (W11) will take place on XX May 2025, 9:00–16:00 in **room XX**. 
 
 Arthur Fleig is a junior research group leader at <a href="https://scads.ai">ScaDS.AI</a> Leipzig, Leipzig University. His research interests lie on the interface between Computer Science and Mathematics. He focuses on modelling, simulation, and optimal control of real-world-relevant dynamical systems within Human-Computer Interaction.
 
+<div style="clear: both;"></div>
+
 ## Patrick Ebel
 
 <div class="organiser-photo">
