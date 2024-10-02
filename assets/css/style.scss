@@ -2,3 +2,9 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+.organiser-photo img {
+    width: 150px;     /* Set a fixed width for the image */
+    height: 150px;    /* Set a fixed height for the image */
+    object-fit: cover;  /* Ensures the image fits within the dimensions */
+}
