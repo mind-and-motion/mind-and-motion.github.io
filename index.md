@@ -7,20 +7,25 @@ Through the submitted position papers, keynotes, and group discussions, we aim t
 
 # Submissions
 
-Participants are invited to submit position papers that focus on.... 
+We invite submissions from researchers and practitioners interested in using models that integrate both biomechanics and cognition. Submissions need not be at the intersection of the two fields; rather, we ask participants to detail their use (or intended use) of cognitive and/or biomechanical models in experience reports or position papers. Submissions should outline concrete applications, highlighting the difficulties and benefits of current approaches.
+
 
 ## Submission Instructions
 
-Submissions should follow the ACM Article Template
+Submissions should be 2-4 pages (excluding references), following the single-column [ACM Master Article template](https://www.acm.org/publications/proceedings-template) and [SIGCHI accessibility guidelines](https://sigchi.org/resources/guides-for-authors/accessibility/).
+
+## Reviewing and Publication Process
+
+Workshop organizers will evaluate the submissions based on relevance and potential for stimulating discussion. Accepted submissions will be used as a basis for forming balanced discussion groups and guide workshop debates. Papers will be published on the workshop website and included in the workshop proceedings.
 
 ## Key Dates
 
-**Submissions due:** xx.xx.xx
+**Submission Deadline:** February 13, 2025 (AoE)
 
-**Notifications sent:** xx.xx.xx
+**Notifications:** March 3, 2025 (AoE)
 
 # Schedule and Location
-The workshop will take place on XX May 2025, 9:00–16:00 in **room XX**. See full CHI workshop programme [here](https://chi2025.acm.org/for-authors/workshops/).
+The workshop will take place on XX May 2025, 9:00–17:00 in **room XX**. See full CHI workshop programme [here](https://chi2025.acm.org/for-authors/workshops/).
 
 
  Activity | Time                     | Description                                                                                                                 
