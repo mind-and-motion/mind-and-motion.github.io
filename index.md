@@ -22,7 +22,7 @@ Submissions should follow the ACM Article Template
 # Schedule and Location
 The workshop will take place on XX May 2025, 9:00–16:00 in **room XX**. See full CHI workshop programme [here](https://chi2025.acm.org/for-authors/workshops/).
 
-<div class="markdown-table">
+
  Activity | Time                     | Description                                                                                                                 
 -------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------
  Welcoming <img width=10/>      | 9:00–9:15<img width=70/> | Introduction of workshop topics and organizers
@@ -38,7 +38,7 @@ World Café 2        | 15:15-16:15              | Discussion of grand challenges
 Summarizing Discussion         | 16:15-16:45              | General discussion about combining, applying, and evaluating simulations
 Closing             | 16:45-17:00              | Conclusion and Future Collaborations
 Dinner                | ???                      |    Informal dinner for all participants who still have some energy left
-</div>
+
 
 
 # Organizers
