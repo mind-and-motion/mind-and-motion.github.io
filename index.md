@@ -1,11 +1,19 @@
 ---
 layout: default
 ---
-This workshop invites HCI researchers, UI designers, and practitioners to explore how integrating these models can lead to smarter, more responsive interfaces. Through expert talks, case studies, and hands-on collaborative sessions, participants will discuss how combining physical and mental user models can enhance interaction design in real-world contexts. Key topics include the influence of physical constraints on cognitive load in complex interfaces, the role of cognitive processes in optimizing motor performance, and how integrating these models can drive innovations in responsive, adaptive, and ergonomic design for interfaces such as wearables, VR/AR systems, and touch-based devices.
+
+The primary goal of **Mind & Motion** is to deepen the HCI community’s understanding of how biomechanical and cognitive models can be applied to enhance user interface design and usability. In addition to facilitating knowledge-sharing and inspiring new collaborations across disciplines, this workshop aims to identify practical applications where biomechanical and cognitive models can drive significant improvements in HCI.
+Through the submitted position papers, keynotes, and group discussions, we aim to surface real-world use cases that demonstrate the potential "bang for the buck" of different types and combination of user models.
 
 # Submissions
 
 Participants are invited to submit position papers that focus on.... 
+
+## Submission Instructions
+
+Submissions should follow the ACM Article Template
+
+## Key Dates
 
 **Submissions due:** xx.xx.xx
 
@@ -16,13 +24,19 @@ The workshop will take place on XX May 2025, 9:00–16:00 in **room XX**. See fu
 
  Activity | Time                     | Description                                                                                                                 
 -------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------
- Introduction<img width=10/>      | 9:00–9:10<img width=70/> | Introduction of workshop topics and organizers
- Session 1         | 14:20–15:00              | *Presentation*: Existing multi-agent automotive research.                                                                     
- Coffee break      | 15:00–15:15              | Live demo of the coupled simulator and networking.                                                   
- Session 2         | 15:15–16:30              | *Group work 1*: Do we need multi-agent automotive research?                                                                   
- Coffee break      | 16:30–16:45              | Live demo of the coupled simulator and networking.                                                   
- Session 3         | 16:45–17:30              | *Group work 2*: How can we advance the state of multi-agent automotive research?                                              
- Closing           | 17:30–18:00              | Presentations of group work activities and wrap-up. Collection of the expression of interest to contribute to the positioning paper. 
+ **Welcoming** <img width=10/>      | 9:00–9:15<img width=70/> | Introduction of workshop topics and organizers
+ **Introductions**      | 9:15-10:00               | Lightning Presentations: Introduction of Participants                                                                   
+ **Keynote 1**          | 10:00–10:45              | Keynote on Model-Based UI/UX Design                                                   
+ Coffee Break_          | 10:45-11:15              | Networking, Relaxation                                                                
+ **Keynote 2**          | 11:15-12:00              | Keynote on Biomechanical Simulations                                                   
+ _Lunch_                | 12:00-13:00              | Food                                              
+ **Keynote 3**          | 13:00-13:45              | Keynote on Cognitive Modeling             
+ **World Café 1**       | 13:45-14:45              | Discussion of potential applications of integrated models of biomechanics and cognition in participants' research            
+ Coffee Break_          | 14:45-15:15              | Networking, Relaxation      
+**World Café 2**        | 15:15-16:15              | Discussion of grand challenges that simulations face in the application identified in World Café 1
+**Summarizing Discussion**         | 16:15-16:45              | General discussion about combining, applying, and evaluating simulations
+**Closing**             | 16:45-17:00              | Conclusion and Future Collaborations
+_Dinner_                | ???                      |    Informal dinner for all participants who still have some energy left
 
 # Organizers
 
@@ -52,7 +66,7 @@ Florian Fischer is a Postdoc in the Intelligent Interactive Systems group at Cam
    <img src="{{ site.url }}{{ site.baseurl }}/assets/markus-klar.jpg" alt="Markus Klar">
 </div>
 
-Markus Klar is a Postdoc at the University of Glasgow. His research areas include optimization of dynamic interaction techniques, model-predictive control, and simulation of human-computer interaction.
+Markus Klar is a Postdoc in the Inference, Dynamics and Interaction group at the University of Glasgow. His research focuses on the simulation of human interactions with computers using biomechanical models, model-predictive control, and RL. As part of the [DIFAI](https://difai-project.org/}{DIFAI) project, he is working on active inference-based simulations and applications.
 
 <div style="clear: both;"></div>
 
@@ -82,7 +96,7 @@ Miroslav Bachinski is an associate professor at the University of Bergen. His re
    <img src="{{ site.url }}{{ site.baseurl }}/assets/per-ola-kristensson.png" alt="Per Ola Kristensson">
 </div>
 
-Per Ola Kristensson is ...
+Per Ola Kristensson is a Professor of Interactive Systems Engineering in the Department of Engineering at the University of Cambridge and a Fellow of Trinity College, Cambridge. He is a co-founder and co-director of the Centre for Human-Inspired Artificial Intelligence at the University of Cambridge.
 
 <div style="clear: both;"></div>
 
@@ -92,7 +106,7 @@ Per Ola Kristensson is ...
    <img src="{{ site.url }}{{ site.baseurl }}/assets/roderick-murray-smith.png" alt="Roderick Murray-Smith">
 </div>
 
-Roderick Murray-Smith is a professor in the School of Computing Science at the University of Glasgow, where he is a member of the Inference, Dynamics and Interaction group and works in the areas of human-computer interaction, machine learning, and control.
+Roderick Murray-Smith is  professor in the School of Computing Science at the University of Glasgow, where he is a member of the Inference, Dynamics and Interaction group and works in the areas of human-computer interaction, machine learning, and control, leading the ERC project [DIFAI](https://difai-project.org/}{DIFAI) on active inference in HCI.
 
 <div style="clear: both;"></div>
 
