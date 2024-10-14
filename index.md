@@ -45,6 +45,83 @@ Closing             | 16:45-17:00              | Conclusion and Future Collabora
 Dinner                | ???                      |    Informal dinner for all participants who still have some energy left
 
 
+<table style="width:100%; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="padding: 10px; border: 1px solid #ddd;">Activity</th>
+      <th style="padding: 10px; border: 1px solid #ddd;">Time</th>
+      <th style="padding: 10px; border: 1px solid #ddd;">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Welcoming <img width="10" alt="icon"></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">9:00–9:15 <img width="70" alt="spacer"></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Introduction of workshop topics and organizers</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Introductions</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">9:15–10:00</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Lightning Presentations: Introduction of Participants</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Keynote 1</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">10:00–10:45</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Keynote on Model-Based UI/UX Design</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Coffee Break</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">10:45–11:15</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Networking, Relaxation</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Keynote 2</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">11:15–12:00</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Keynote on Biomechanical Simulations</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Lunch</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">12:00–13:00</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Food</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Keynote 3</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">13:00–13:45</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Keynote on Cognitive Modeling</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">World Café 1</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">13:45–14:45</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Discussion of potential applications of integrated models of biomechanics and cognition in participants' research</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Coffee Break</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">14:45–15:15</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Networking, Relaxation</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">World Café 2</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">15:15–16:15</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Discussion of grand challenges that simulations face in the application identified in World Café 1</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Summarizing Discussion</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">16:15–16:45</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">General discussion about combining, applying, and evaluating simulations</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Closing</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">16:45–17:00</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Conclusion and Future Collaborations</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Dinner</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">???</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Informal dinner for all participants who still have some energy left</td>
+    </tr>
+  </tbody>
+</table>
+
 
 # Organizers
 
