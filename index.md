@@ -28,37 +28,6 @@ Workshop organizers will evaluate the submissions based on relevance and potenti
 The workshop will take place on XX May 2025, 9:00–17:00 in **room XX**. See full CHI workshop programme [here](https://chi2025.acm.org/for-authors/workshops/).
 
 
-[//]: # ( Activity | Time                     | Description                                                                                                                 )
-
-[//]: # (-------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------)
-
-[//]: # ( Welcoming <img width=10/>      | 9:00–9:15<img width=70/> | Introduction of workshop topics and organizers)
-
-[//]: # ( Introductions      | 9:15-10:00               | Lightning Presentations: Introduction of Participants                                                                   )
-
-[//]: # ( Keynote 1          | 10:00–10:45              | Keynote on Model-Based UI/UX Design                                                   )
-
-[//]: # ( Coffee Break_          | 10:45-11:15              | Networking, Relaxation                                                                )
-
-[//]: # ( Keynote 2          | 11:15-12:00              | Keynote on Biomechanical Simulations                                                   )
-
-[//]: # ( Lunch                | 12:00-13:00              | Food                                              )
-
-[//]: # ( Keynote 3          | 13:00-13:45              | Keynote on Cognitive Modeling             )
-
-[//]: # ( World Café 1       | 13:45-14:45              | Discussion of potential applications of integrated models of biomechanics and cognition in participants' research            )
-
-[//]: # (Coffee Break          | 14:45-15:15              | Networking, Relaxation      )
-
-[//]: # (World Café 2        | 15:15-16:15              | Discussion of grand challenges that simulations face in the application identified in World Café 1)
-
-[//]: # (Summarizing Discussion         | 16:15-16:45              | General discussion about combining, applying, and evaluating simulations)
-
-[//]: # (Closing             | 16:45-17:00              | Conclusion and Future Collaborations)
-
-[//]: # (Dinner                | ???                      |    Informal dinner for all participants who still have some energy left)
-
-
 <style>
   table {
     width: 100%;
