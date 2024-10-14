@@ -10,15 +10,15 @@ Through the submitted position papers, keynotes, and group discussions, we aim t
 We invite submissions from researchers and practitioners interested in using models that integrate both biomechanics and cognition. Submissions need not be at the intersection of the two fields; rather, we ask participants to detail their use (or intended use) of cognitive and/or biomechanical models in experience reports or position papers. Submissions should outline concrete applications, highlighting the difficulties and benefits of current approaches.
 
 
-## Submission Instructions
+### Submission Instructions
 
 Submissions should be 2-4 pages (excluding references), following the single-column [ACM Master Article template](https://www.acm.org/publications/proceedings-template) and [SIGCHI accessibility guidelines](https://sigchi.org/resources/guides-for-authors/accessibility/).
 
-## Reviewing and Publication Process
+### Reviewing and Publication Process
 
 Workshop organizers will evaluate the submissions based on relevance and potential for stimulating discussion. Accepted submissions will be used as a basis for forming balanced discussion groups and guide workshop debates. Papers will be published on the workshop website and included in the workshop proceedings.
 
-## Key Dates
+### Key Dates
 
 **Submission Deadline:** February 13, 2025 (AoE)
 
@@ -28,96 +28,139 @@ Workshop organizers will evaluate the submissions based on relevance and potenti
 The workshop will take place on XX May 2025, 9:00–17:00 in **room XX**. See full CHI workshop programme [here](https://chi2025.acm.org/for-authors/workshops/).
 
 
- Activity | Time                     | Description                                                                                                                 
--------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------
- Welcoming <img width=10/>      | 9:00–9:15<img width=70/> | Introduction of workshop topics and organizers
- Introductions      | 9:15-10:00               | Lightning Presentations: Introduction of Participants                                                                   
- Keynote 1          | 10:00–10:45              | Keynote on Model-Based UI/UX Design                                                   
- Coffee Break_          | 10:45-11:15              | Networking, Relaxation                                                                
- Keynote 2          | 11:15-12:00              | Keynote on Biomechanical Simulations                                                   
- Lunch                | 12:00-13:00              | Food                                              
- Keynote 3          | 13:00-13:45              | Keynote on Cognitive Modeling             
- World Café 1       | 13:45-14:45              | Discussion of potential applications of integrated models of biomechanics and cognition in participants' research            
-Coffee Break          | 14:45-15:15              | Networking, Relaxation      
-World Café 2        | 15:15-16:15              | Discussion of grand challenges that simulations face in the application identified in World Café 1
-Summarizing Discussion         | 16:15-16:45              | General discussion about combining, applying, and evaluating simulations
-Closing             | 16:45-17:00              | Conclusion and Future Collaborations
-Dinner                | ???                      |    Informal dinner for all participants who still have some energy left
+[//]: # ( Activity | Time                     | Description                                                                                                                 )
+
+[//]: # (-------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------)
+
+[//]: # ( Welcoming <img width=10/>      | 9:00–9:15<img width=70/> | Introduction of workshop topics and organizers)
+
+[//]: # ( Introductions      | 9:15-10:00               | Lightning Presentations: Introduction of Participants                                                                   )
+
+[//]: # ( Keynote 1          | 10:00–10:45              | Keynote on Model-Based UI/UX Design                                                   )
+
+[//]: # ( Coffee Break_          | 10:45-11:15              | Networking, Relaxation                                                                )
+
+[//]: # ( Keynote 2          | 11:15-12:00              | Keynote on Biomechanical Simulations                                                   )
+
+[//]: # ( Lunch                | 12:00-13:00              | Food                                              )
+
+[//]: # ( Keynote 3          | 13:00-13:45              | Keynote on Cognitive Modeling             )
+
+[//]: # ( World Café 1       | 13:45-14:45              | Discussion of potential applications of integrated models of biomechanics and cognition in participants' research            )
+
+[//]: # (Coffee Break          | 14:45-15:15              | Networking, Relaxation      )
+
+[//]: # (World Café 2        | 15:15-16:15              | Discussion of grand challenges that simulations face in the application identified in World Café 1)
+
+[//]: # (Summarizing Discussion         | 16:15-16:45              | General discussion about combining, applying, and evaluating simulations)
+
+[//]: # (Closing             | 16:45-17:00              | Conclusion and Future Collaborations)
+
+[//]: # (Dinner                | ???                      |    Informal dinner for all participants who still have some energy left)
 
 
-<table style="width:100%; border-collapse: collapse;">
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.8em; /* Reduces font size slightly */
+  }
+
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+
+  th {
+    background-color: #f2f2f2;
+  }
+
+  tbody tr:nth-child(even) {
+    background-color: #f9f9f9; /* Light gray background for even rows */
+  }
+
+  tbody tr:nth-child(odd) {
+    background-color: #ffffff; /* White background for odd rows */
+  }
+
+  .break {
+    font-style: italic; /* Italicizes break rows */
+  }
+</style>
+
+<table>
   <thead>
-    <tr style="background-color: #f2f2f2;">
-      <th style="padding: 10px; border: 1px solid #ddd;">Activity</th>
-      <th style="padding: 10px; border: 1px solid #ddd;">Time</th>
-      <th style="padding: 10px; border: 1px solid #ddd;">Description</th>
+    <tr>
+      <th>Activity</th>
+      <th>Time</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Welcoming <img width="10" alt="icon"></td>
-      <td style="padding: 10px; border: 1px solid #ddd;">9:00–9:15 <img width="70" alt="spacer"></td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Introduction of workshop topics and organizers</td>
+      <td>Welcoming </td>
+      <td>9:00–9:15 </td>
+      <td>Introduction of workshop topics and organizers</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Introductions</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">9:15–10:00</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Lightning Presentations: Introduction of Participants</td>
+      <td>Introductions</td>
+      <td>9:15–10:00</td>
+      <td>Lightning Presentations: Introduction of Participants</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Keynote 1</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">10:00–10:45</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Keynote on Model-Based UI/UX Design</td>
+      <td>Keynote 1</td>
+      <td>10:00–10:45</td>
+      <td>Keynote on Model-Based UI/UX Design</td>
+    </tr>
+    <tr class="break">
+      <td>Coffee Break</td>
+      <td>10:45–11:15</td>
+      <td>Networking, Relaxation</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Coffee Break</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">10:45–11:15</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Networking, Relaxation</td>
+      <td>Keynote 2</td>
+      <td>11:15–12:00</td>
+      <td>Keynote on Biomechanical Simulations</td>
+    </tr>
+    <tr class="break">
+      <td>Lunch</td>
+      <td>12:00–13:00</td>
+      <td>Food</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Keynote 2</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">11:15–12:00</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Keynote on Biomechanical Simulations</td>
+      <td>Keynote 3</td>
+      <td>13:00–13:45</td>
+      <td>Keynote on Cognitive Modeling</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Lunch</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">12:00–13:00</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Food</td>
+      <td>World Café 1</td>
+      <td>13:45–14:45</td>
+      <td>Discussion of potential applications of integrated models of biomechanics and cognition in participants' research</td>
+    </tr>
+    <tr class="break">
+      <td>Coffee Break</td>
+      <td>14:45–15:15</td>
+      <td>Networking, Relaxation</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Keynote 3</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">13:00–13:45</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Keynote on Cognitive Modeling</td>
+      <td>World Café 2</td>
+      <td>15:15–16:15</td>
+      <td>Discussion of grand challenges that simulations face in the application identified in World Café 1</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">World Café 1</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">13:45–14:45</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Discussion of potential applications of integrated models of biomechanics and cognition in participants' research</td>
+      <td>Summarizing Discussion</td>
+      <td>16:15–16:45</td>
+      <td>General discussion about combining, applying, and evaluating simulations</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Coffee Break</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">14:45–15:15</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Networking, Relaxation</td>
+      <td>Closing</td>
+      <td>16:45–17:00</td>
+      <td>Conclusion and Future Collaborations</td>
     </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">World Café 2</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">15:15–16:15</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Discussion of grand challenges that simulations face in the application identified in World Café 1</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Summarizing Discussion</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">16:15–16:45</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">General discussion about combining, applying, and evaluating simulations</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Closing</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">16:45–17:00</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Conclusion and Future Collaborations</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Dinner</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">???</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Informal dinner for all participants who still have some energy left</td>
+    <tr class="break">
+      <td>Dinner</td>
+      <td>???</td>
+      <td>Informal dinner for all participants who still have some energy left</td>
     </tr>
   </tbody>
 </table>
