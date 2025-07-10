@@ -2,30 +2,50 @@
 layout: default
 ---
 
-The primary goal of **Mind & Motion** is to deepen the HCI community’s understanding of how biomechanical and cognitive models can be applied to enhance user interface design and usability. In addition to facilitating knowledge-sharing and inspiring new collaborations across disciplines, this workshop aims to identify practical applications where biomechanical and cognitive models can drive significant improvements in HCI.
-Through the submitted position papers, keynotes, and group discussions, we aim to surface real-world use cases that demonstrate the potential "bang for the buck" of different types and combination of user models.
+Computational models of how users perceive, think, and move in virtual or physical environments hold great promise for the future of HCI. Cognitive models help us understand how attention, beliefs, and goals shape user decisions, while biomechanical simulations capture the physical aspects of interaction—such as effort, fatigue, and posture.
 
-# Submissions
+The next frontier is connecting these two perspectives. By integrating cognitive and biomechanical modeling, we can create embodied user simulations that better predict user strategies, movements, and intent. This opens up new possibilities for benchmarking interaction techniques, optimizing ergonomics, and designing adaptive, user-aware systems.
 
-We invite submissions from researchers and practitioners interested in using models that integrate both biomechanics and cognition. Submissions need not be at the intersection of the two fields; rather, we ask participants to detail their use (or intended use) of cognitive and/or biomechanical models in experience reports or position papers. Submissions should outline concrete applications, highlighting the difficulties and benefits of current approaches.
+This UIST workshop brings together researchers across disciplines to explore how computational modeling can enhance UI/UX design, automate system evaluation, and support personalization. Join us as we identify challenges, share ideas, and shape the future of interactive behavior simulation.
 
 
-### Submission Instructions
+[//]: # ()
+[//]: # (# Submissions)
 
-Submissions should be 2-4 pages (excluding references), following the single-column [ACM Master Article template](https://www.acm.org/publications/proceedings-template) and [SIGCHI accessibility guidelines](https://sigchi.org/resources/guides-for-authors/accessibility/).
+[//]: # ()
+[//]: # (We invite submissions from researchers and practitioners interested in using models that integrate both biomechanics and cognition. Submissions need not be at the intersection of the two fields; rather, we ask participants to detail their use &#40;or intended use&#41; of cognitive and/or biomechanical models in experience reports or position papers. Submissions should outline concrete applications, highlighting the difficulties and benefits of current approaches.)
 
-### Reviewing and Publication Process
+[//]: # ()
+[//]: # ()
+[//]: # (### Submission Instructions)
 
-Workshop organizers will evaluate the submissions based on relevance and potential for stimulating discussion. Accepted submissions will be used as a basis for forming balanced discussion groups and guide workshop debates. Papers will be published on the workshop website and included in the workshop proceedings.
+[//]: # ()
+[//]: # (Submissions should be 2-4 pages &#40;excluding references&#41;, following the single-column [ACM Master Article template]&#40;https://www.acm.org/publications/proceedings-template&#41; and [SIGCHI accessibility guidelines]&#40;https://sigchi.org/resources/guides-for-authors/accessibility/&#41;.)
 
-### Key Dates
+[//]: # ()
+[//]: # (### Reviewing and Publication Process)
 
-**Submission Deadline:** February 13, 2025 (AoE)
+[//]: # ()
+[//]: # (Workshop organizers will evaluate the submissions based on relevance and potential for stimulating discussion. Accepted submissions will be used as a basis for forming balanced discussion groups and guide workshop debates. Papers will be published on the workshop website and included in the workshop proceedings.)
 
-**Notifications:** March 3, 2025 (AoE)
+[//]: # ()
+[//]: # (### Key Dates)
+
+[//]: # ()
+[//]: # (**Submission Deadline:** February 13, 2025 &#40;AoE&#41;)
+
+[//]: # ()
+[//]: # (**Notifications:** March 3, 2025 &#40;AoE&#41;)
+
+# Goals and Activities 
+The goal of Mind & Motion is to explore how cognitive and biomechanical models can advance user interface design and usability. By bringing together researchers and practitioners from across disciplines, the workshop aims to foster collaboration, share insights, and identify real-world applications where predictive and embodied user models can make a tangible impact in HCI.
+
+We welcome anyone working on simulations or computational models of user behavior—whether focused on cognition, motor control, or their intersection. Participants are encouraged to share hands-on examples of their recent work, including prototypes, tools, or lessons from failed attempts. Our aim is to build a shared understanding of current challenges and opportunities in modeling interactive user behavior.
+
+The workshop includes **two keynotes on cutting-edge research** in biomechanical simulations and cognitive modelling. After the  keynotes, which intentionally follow each other to provide input from different areas and perspectives, we foster discussions and exchange in small groups.
 
 # Schedule and Location
-The workshop will take place on XX May 2025, 9:00–17:00 in **room XX**. See full CHI workshop programme [here](https://chi2025.acm.org/for-authors/workshops/).
+The workshop will take place on XX May 2025, 9:00–17:00 in **room XX**. See full UIST workshop programme [here](https://uist.acm.org/2025/).
 
 
 <style>
@@ -79,52 +99,42 @@ The workshop will take place on XX May 2025, 9:00–17:00 in **room XX**. See fu
     <tr>
       <td>Keynote 1</td>
       <td>10:00–10:45</td>
-      <td>Keynote on Model-Based UI/UX Design</td>
-    </tr>
-    <tr class="break">
-      <td>Coffee Break</td>
-      <td>10:45–11:15</td>
-      <td>Networking, Relaxation</td>
-    </tr>
-    <tr>
-      <td>Keynote 2</td>
-      <td>11:15–12:00</td>
-      <td>Keynote on Biomechanical Simulations</td>
-    </tr>
-    <tr class="break">
-      <td>Lunch</td>
-      <td>12:00–13:00</td>
-      <td>Food</td>
-    </tr>
-    <tr>
-      <td>Keynote 3</td>
-      <td>13:00–13:45</td>
       <td>Keynote on Cognitive Modeling</td>
     </tr>
     <tr>
-      <td>World Café 1</td>
-      <td>13:45–14:45</td>
-      <td>Discussion of potential applications of integrated models of biomechanics and cognition in participants' research</td>
+      <td>Keynote 2</td>
+      <td>10:45-11:30</td>
+      <td>Keynote on Biomechanical Modeling</td>
+    </tr>
+    <tr>
+      <td>Brainstorming</td>
+      <td>11:30-12:30</td>
+      <td>With both keynotes in mind, this session provides an opportunity to brainstorm ideas in smaller groups.</td>
+    </tr>
+    <tr class="break">
+      <td>Lunch</td>
+      <td>12:30–13:30</td>
+      <td>Enjoy some great local food.</td>
+    </tr>
+    <tr>
+      <td>Spotlights and Demos</td>
+      <td>13:30–14:30</td>
+      <td>In this interactive demo carousel, participants will showcase hands-on examples of cognitive and biomechanical modeling to spark discussion on practical challenges and lessons learned.</td>
+    </tr>
+    <tr>
+      <td>Group Discussion</td>
+      <td>14:30–15:30</td>
+      <td>Discussion of grand challenges and limitations simulations will face in the previously identified applications.</td>
     </tr>
     <tr class="break">
       <td>Coffee Break</td>
-      <td>14:45–15:15</td>
+      <td>15:30–16:00</td>
       <td>Networking, Relaxation</td>
     </tr>
     <tr>
-      <td>World Café 2</td>
-      <td>15:15–16:15</td>
-      <td>Discussion of grand challenges that simulations face in the application identified in World Café 1</td>
-    </tr>
-    <tr>
-      <td>Summarizing Discussion</td>
-      <td>16:15–16:45</td>
-      <td>General discussion about combining, applying, and evaluating simulations</td>
-    </tr>
-    <tr>
-      <td>Closing</td>
-      <td>16:45–17:00</td>
-      <td>Conclusion and Future Collaborations</td>
+      <td>Closing Discussion</td>
+      <td>16:00–17:00</td>
+      <td>This closing session will wrap up key insights and define next steps for integrating biomechanical and cognitive simulations in HCI.</td>
     </tr>
     <tr class="break">
       <td>Dinner</td>
