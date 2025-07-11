@@ -45,7 +45,7 @@ We welcome anyone working on simulations or computational models of user behavio
 The workshop includes **two keynotes on cutting-edge research** in biomechanical simulations and cognitive modelling. After the  keynotes, which intentionally follow each other to provide input from different areas and perspectives, we foster discussions and exchange in small groups.
 
 # Schedule and Location
-The workshop will take place on XX May 2025, 9:00–17:00 in **room XX**. See full UIST workshop programme [here](https://uist.acm.org/2025/).
+The workshop will take place on September 28, 2005, 9:00–17:00 in room XX. See full UIST workshop programme [here](https://uist.acm.org/2025/).
 
 
 <style>
@@ -87,14 +87,9 @@ The workshop will take place on XX May 2025, 9:00–17:00 in **room XX**. See fu
   </thead>
   <tbody>
     <tr>
-      <td>Welcoming </td>
-      <td>9:00–9:15 </td>
-      <td>Introduction of workshop topics and organizers</td>
-    </tr>
-    <tr>
-      <td>Introductions</td>
-      <td>9:15–10:00</td>
-      <td>Lightning Presentations: Introduction of Participants</td>
+      <td>Welcoming and Introduction</td>
+      <td>9:00–10:00</td>
+      <td>Welcoming and introduction of participants through lightning talks</td>
     </tr>
     <tr>
       <td>Keynote 1</td>
@@ -107,9 +102,9 @@ The workshop will take place on XX May 2025, 9:00–17:00 in **room XX**. See fu
       <td>Keynote on Biomechanical Modeling</td>
     </tr>
     <tr>
-      <td>Brainstorming</td>
+      <td>Brainstorming: Use Cases and Applications</td>
       <td>11:30-12:30</td>
-      <td>With both keynotes in mind, this session provides an opportunity to brainstorm ideas in smaller groups.</td>
+      <td>With both keynotes in mind, this session provides an opportunity to brainstorm Use Cases and Applications in smaller groups.</td>
     </tr>
     <tr class="break">
       <td>Lunch</td>
@@ -119,10 +114,10 @@ The workshop will take place on XX May 2025, 9:00–17:00 in **room XX**. See fu
     <tr>
       <td>Spotlights and Demos</td>
       <td>13:30–14:30</td>
-      <td>In this interactive demo carousel, participants will showcase hands-on examples of cognitive and biomechanical modeling to spark discussion on practical challenges and lessons learned.</td>
+      <td>In this interactive demo carousel, selected participants will showcase hands-on examples of cognitive and biomechanical modeling to spark discussion on practical challenges and lessons learned.</td>
     </tr>
     <tr>
-      <td>Group Discussion</td>
+      <td>Group Discussion: Challenges and Limitations</td>
       <td>14:30–15:30</td>
       <td>Discussion of grand challenges and limitations simulations will face in the previously identified applications.</td>
     </tr>
@@ -132,9 +127,9 @@ The workshop will take place on XX May 2025, 9:00–17:00 in **room XX**. See fu
       <td>Networking, Relaxation</td>
     </tr>
     <tr>
-      <td>Closing Discussion</td>
+      <td>Closing Session</td>
       <td>16:00–17:00</td>
-      <td>This closing session will wrap up key insights and define next steps for integrating biomechanical and cognitive simulations in HCI.</td>
+      <td>This closing session will wrap up key insights, reflect on participants' learnings, summarize participants' shared interests, and discuss next steps for integrating biomechanical and cognitive simulations in HCI.</td>
     </tr>
     <tr class="break">
       <td>Dinner</td>
