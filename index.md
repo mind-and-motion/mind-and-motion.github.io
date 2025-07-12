@@ -45,7 +45,7 @@ We welcome anyone working on simulations or computational models of user behavio
 The workshop includes **two keynotes on cutting-edge research** in biomechanical simulations and cognitive modelling. After the  keynotes, which intentionally follow each other to provide input from different areas and perspectives, we foster discussions and exchange in small groups.
 
 # Schedule and Location
-The workshop will take place on September 28, 2005, 9:00–17:00 in room XX. See full UIST workshop programme [here](https://uist.acm.org/2025/).
+The workshop will take place on September 28, 2025, 9:00–17:00 in room XX. See full UIST workshop programme [here](https://uist.acm.org/2025/).
 
 
 <style>
